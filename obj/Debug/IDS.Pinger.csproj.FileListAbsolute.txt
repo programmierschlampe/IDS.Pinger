@@ -1,0 +1,8 @@
+C:\Development\GIT\IDS.Pinger\bin\Debug\IDS.Pinger.exe.config
+C:\Development\GIT\IDS.Pinger\bin\Debug\IDS.Pinger.exe
+C:\Development\GIT\IDS.Pinger\bin\Debug\IDS.Pinger.pdb
+C:\Development\GIT\IDS.Pinger\obj\Debug\IDS.Pinger.csproj.AssemblyReference.cache
+C:\Development\GIT\IDS.Pinger\obj\Debug\IDS.Pinger.csproj.SuggestedBindingRedirects.cache
+C:\Development\GIT\IDS.Pinger\obj\Debug\IDS.Pinger.csproj.CoreCompileInputs.cache
+C:\Development\GIT\IDS.Pinger\obj\Debug\IDS.Pinger.exe
+C:\Development\GIT\IDS.Pinger\obj\Debug\IDS.Pinger.pdb

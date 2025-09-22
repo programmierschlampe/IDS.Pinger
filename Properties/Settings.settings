@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IDS.Pinger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HostIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.1|80.12.224.170|80.122.224.169|62.47.95.239|195.3.96.67|213.22.98.136</Value>
+    </Setting>
+    <Setting Name="Hostname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LAN|WAN FW|WAN GW|GW|NS1|NS2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
